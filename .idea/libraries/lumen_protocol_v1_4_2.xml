@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lumen_protocol-v1.4.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/java/com/kedacom/jar/lumen_protocol-v1.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
